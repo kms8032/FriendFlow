@@ -1,0 +1,6 @@
+# node.js + Vue 공통
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
